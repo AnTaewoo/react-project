@@ -1,2 +1,2 @@
-# react-project입니다
-공부 후 만든 여러 프로젝트를 올리는 리포티지 입니다.
+# React-Project
+공부 후 만든 여러 프로젝트를 올리는 Repositorie입니다.
