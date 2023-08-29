@@ -1,2 +1,2 @@
 # react-project
-ReactStudy-Project
+ReactStudy-Project입니다.
